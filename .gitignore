@@ -1,0 +1,4 @@
+# Ghidra/REA analysis snapshot: contains decompiled game code, keep local only.
+analysis/
+
+node_modules/

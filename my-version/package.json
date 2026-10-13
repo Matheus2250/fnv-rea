@@ -1,0 +1,14 @@
+{
+  "name": "fnv-cell-persistence",
+  "version": "1.0.0",
+  "description": "Clean-room reimplementation of how object positions persist across cell unload/reload, built from SPEC.md.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.19"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "demo": "node demo.js"
+  }
+}
